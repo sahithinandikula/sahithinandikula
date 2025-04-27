@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hi, I’m @sahithinandikula<br>👀 I'm Interested in creating awesome websites....<br>🌱 I’m currently learning frontend that includes HTML, CSS,Javascript, Bootstrap<br>💞️ I’m looking to collaborate on projects that help me in improving my knowledge towards development.<br>📫 How to reach me ...<br>LinkedIn: www.linkedin.com/in/nandikulasahithi<br>email: sahithinandikula05@gmail.com<br>😄 Pronouns: SHE / HER<br>⚡ Fun fact: I am interested in communicating with peers working in the same field, feel free to collaborate . Let's connect and build better things
+Hi, I’m @sahithinandikula<br>👀 I'm Interested in creating awesome websites....<br>🌱 I’m currently learning frontend that includes HTML, CSS,Javascript, Bootstrap<br>💞️ I’m looking to collaborate on projects that help me in improving my knowledge towards development.<br>📫 How to reach me ...<br>LinkedIn: www.linkedin.com/in/sahithi-nandikula<br>email: sahithinandikula05@gmail.com<br>😄 Pronouns: SHE / HER<br>⚡ Fun fact: I am interested in communicating with peers working in the same field, feel free to collaborate . Let's connect and build better things
 
 
 ## 🌐 Socials:
