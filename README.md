@@ -10,7 +10,7 @@
 
 ## About me
 
-Final-year CS student shipping real full-stack and AI products. I've built a nationally recognised AI agent (CodeQuest 2026 — Top 108 Finalist), evaluated AI-generated video outputs professionally at Deccan AI, and led open-source contributors as a Project Admin at GSSOC 2024.
+A CS student shipping real full-stack and AI products. I've built a nationally recognised AI agent (CodeQuest 2026 — Top 108 Finalist), evaluated AI-generated video outputs professionally at Deccan AI, and led open-source contributors as a Project Admin at GSSOC 2024.
 
 I care about products that solve real problems — clean UI, real-time data, and execution over theory.
 
@@ -64,7 +64,7 @@ Evaluated AI-generated video outputs for quality, factual accuracy, and model be
 
 ---
 
-### Project Admin · GirlScript Summer of Code (GSSOC) *(Aug – Oct 2024)*
+### Project Admin · GirlScript Summer of Code (GSSOC) *(Aug – Oct 2025)*
 Reviewed 50+ pull requests enforcing frontend and backend standards. Coordinated 15+ contributors across concurrent feature branches using Git-based Agile workflows.
 
 ---
@@ -100,7 +100,7 @@ Reviewed 50+ pull requests enforcing frontend and backend standards. Coordinated
 
 - → Adding architecture diagrams and demo videos to HRTech and StyleSync
 - → Practicing DSA on LeetCode
-- → Open to full-time SDE / Frontend / Full Stack roles starting **August 2025**
+- → Open to full-time SDE / Frontend / Full Stack roles 
 
 ---
 
@@ -111,4 +111,4 @@ Reviewed 50+ pull requests enforcing frontend and backend standards. Coordinated
 
 ---
 
-*B.Tech CSE · Indur Institute of Engineering & Technology · CGPA 7.18 · Graduating July 2025*
+*B.Tech CSE · Indur Institute of Engineering & Technology · CGPA 7.18 · Graduated in  July 2025*
