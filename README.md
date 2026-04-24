@@ -1,30 +1,114 @@
+# Hi, I'm Sahithi Nandikula 👋
 
+**Full Stack Developer** · React · TypeScript · Supabase · Node.js · AI · Open Source
 
-# 💫 About Me:
-Hi, I’m @sahithinandikula<br>👀 I'm Interested in creating awesome websites....<br>🌱 I’m currently learning frontend that includes HTML, CSS,Javascript, Bootstrap<br>💞️ I’m looking to collaborate on projects that help me in improving my knowledge towards development.<br>📫 How to reach me ...<br>LinkedIn: www.linkedin.com/in/sahithi-nandikula<br>email: sahithinandikula05@gmail.com<br>😄 Pronouns: SHE / HER<br>⚡ Fun fact: I am interested in communicating with peers working in the same field, feel free to collaborate . Let's connect and build better things
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahithi--nandikula-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahithi-nandikula)
+[![Email](https://img.shields.io/badge/Email-sahithinandikula05@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahithinandikula05@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)](#-lets-connect)
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahithi-nandikula) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sahithi05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahithinandikula05@gmail.com) 
+## About me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahithinandikula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sahithinandikula&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahithinandikula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Final-year CS student shipping real full-stack and AI products. I've built a nationally recognised AI agent (CodeQuest 2026 — Top 108 Finalist), evaluated AI-generated video outputs professionally at Deccan AI, and led open-source contributors as a Project Admin at GSSOC 2024.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahithinandikula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I care about products that solve real problems — clean UI, real-time data, and execution over theory.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sahithinandikula&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Credibility at a glance
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sahithi) 
+| | |
+|---|---|
+| 🏆 **Top 108 Finalist** | CodeQuest 2026 — national AI agent hackathon |
+| 💼 **AI Internship** | Deccan AI · AI Video Evaluation Analyst |
+| 🌍 **50+ PRs reviewed** | GSSOC 2024 Project Admin |
+| 🚀 **2 live deployed projects** | Vercel + Render |
+| 🤝 **10–20 merged contributions** | Open source · UI + REST API modules |
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🔨 What I've built
+
+### [HRTech DayOne — Onboarding Intelligence Platform](https://stitch-sand-seven.vercel.app)
+> React 18 · TypeScript · Supabase Realtime · Tailwind CSS · pdfjs-dist · Vite
+
+Two-sided HR onboarding platform with **real-time new-hire health scoring** (Green/Yellow/Red) via Supabase Realtime. Includes a rule-based chatbot that parses HR policy PDFs client-side with pdfjs-dist. 5 complete modules shipped end-to-end.
+
+**[→ Live Demo](https://stitch-sand-seven.vercel.app)** · **[→ GitHub](https://github.com/sahithinandikula/HRTech)**
+
+---
+
+### [StyleSync — Design Token Extractor](https://purple-merit-frontend-topaz.vercel.app)
+> React 18 · Zustand · Node.js · Express · Puppeteer · Supabase PostgreSQL · Vercel · Render
+
+Full-stack design tool that scrapes any URL and extracts 5 types of design tokens (CSS variables, colors, fonts, spacing, radii). Lockable token editor persists user selections across re-scrapes. Split deployment: frontend on Vercel, Express/Puppeteer backend on Render.
+
+**[→ Live Demo](https://purple-merit-frontend-topaz.vercel.app)**
+
+---
+
+### Daily Planner AI Agent — CodeQuest 2026 · Top 108 Finalist
+> Supervity Auto DayPilot AI · AI Agent · Productivity
+
+An execution-focused AI agent that acts as a no-BS productivity coach — not motivation, accountability. Generates a prioritised daily plan, flags likely distractions, identifies what actually matters, and forces focus on execution. Built for students and developers drowning in open tabs and unfinished tasks.
+
+**Nationally recognised — Top 108 Finalists, CodeQuest 2026**
+
+---
+
+## 💼 Experience
+
+### AI Video Evaluation Analyst · Deccan AI *(1 month)*
+Evaluated AI-generated video outputs for quality, factual accuracy, and model behaviour — contributing to the human feedback pipeline used to improve AI video generation systems.
+
+---
+
+### Project Admin · GirlScript Summer of Code (GSSOC) *(Aug – Oct 2024)*
+Reviewed 50+ pull requests enforcing frontend and backend standards. Coordinated 15+ contributors across concurrent feature branches using Git-based Agile workflows.
+
+---
+
+### Open Source Contributor · GSSOC *(May – Aug 2024)*
+10–20 merged PRs across responsive React UI components and REST API integrations — owned tasks end-to-end from implementation through review resolution.
+
+---
+
+## 🛠 Tech I use
+
+**Frontend:** React 18 · TypeScript · JavaScript (ES6+) · Tailwind CSS · HTML5 · CSS3 · Zustand · Vite
+
+**Backend & APIs:** Node.js · Express · REST API design · Python · Java Spring Boot
+
+**Databases:** Supabase (PostgreSQL + Realtime) · MySQL · MongoDB · PostgreSQL
+
+**AI & Tooling:** Supervity Auto DayPilot AI · AI agent development · AI output evaluation
+
+**Tools:** Git · GitHub · Vercel · Render · Postman · Puppeteer · VS Code
+
+---
+
+## 🏆 Achievements
+
+- **Top 108 Finalist** — CodeQuest 2026 (national AI agent hackathon)
+- **Project Admin** — GirlScript Summer of Code 2024
+- **Pull Shark** — GitHub achievement (multiple merged PRs)
+
+---
+
+## 📌 Currently
+
+- → Adding architecture diagrams and demo videos to HRTech and StyleSync
+- → Practicing DSA on LeetCode
+- → Open to full-time SDE / Frontend / Full Stack roles starting **August 2025**
+
+---
+
+## 📬 Let's connect
+
+- **LinkedIn:** [linkedin.com/in/sahithi-nandikula](https://linkedin.com/in/sahithi-nandikula)
+- **Email:** sahithinandikula05@gmail.com
+
+---
+
+*B.Tech CSE · Indur Institute of Engineering & Technology · CGPA 7.18 · Graduating July 2025*
