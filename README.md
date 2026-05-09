@@ -10,7 +10,7 @@
 
 ## About me
 
-A CS student shipping real full-stack and AI products. I've built a nationally recognised AI agent (CodeQuest 2026 — Top 108 Finalist), evaluated AI-generated video outputs professionally at Deccan AI, and led open-source contributors as a Project Admin at GSSOC 2024.
+A CS Graduate[Btech 2025] shipping real full-stack and AI products. I've built a nationally recognised AI agent (CodeQuest 2026 — Top 108 Finalist), evaluated AI-generated video outputs professionally at Deccan AI, and led open-source contributors as a Project Admin at GSSOC 2024.
 
 I care about products that solve real problems — clean UI, real-time data, and execution over theory.
 
@@ -100,7 +100,7 @@ Reviewed 50+ pull requests enforcing frontend and backend standards. Coordinated
 
 - → Adding architecture diagrams and demo videos to HRTech and StyleSync
 - → Practicing DSA on LeetCode
-- → Open to full-time SDE / Frontend / Full Stack roles 
+- → Open to full-time SDE / Full Stack roles 
 
 ---
 
